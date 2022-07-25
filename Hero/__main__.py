@@ -230,7 +230,7 @@ async def initiate_bot():
 
 
 home_text_pm = f"""Selam [Bebeğim](tg://settings),
-Ben Katrina Music Bot Sesli Sohbetlerde Müzik ve video oynayabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkarabilirsiniz...!
+Ben Jester Music Bot Sesli Sohbetlerde Müzik ve video oynayabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkarabilirsiniz...!
 
 Komutlarıma Aşağıdaki butonlardan bakabilirsiniz: / """
 
@@ -373,7 +373,7 @@ async def help_parser(name, keyboard=None):
         keyboard = InlineKeyboardMarkup(paginate_modules(0, HELPABLE, "help"))
     return (
         """Selam [Tatlım](tg://settings),
-Ben Katrina Music Bot Sesli Sohbetlerde Müzik ve Video oynatabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkartabilirsiniz.
+Ben Jester Music Bot Sesli Sohbetlerde Müzik ve Video oynatabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkartabilirsiniz.
 
 Butonlara Tıklayarak komutlarıma bakabilirsiniz: `/`
 """.format(
