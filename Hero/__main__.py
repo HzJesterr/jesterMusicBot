@@ -399,7 +399,7 @@ async def help_button(client, query):
     create_match = re.match(r"help_create", query.data)
     top_text = f"""ᴍᴇʀʜᴀʙᴀ {query.from_user.first_name},
 
-ʙᴇɴ ᴋᴀᴛʀɪɴᴀ ᴍᴜᴢɪᴋ ʙᴏᴛᴜ.
+ʙᴇɴ ᴊᴇsᴛᴇʀ ᴍᴜᴢɪᴋ ʙᴏᴛᴜ.
 
 ʙᴜᴛᴏɴʟᴀʀᴀ ᴛɪᴋʟᴀʏᴀʀᴀᴋ ʏᴀʀᴅɪᴍ ᴀʟᴀʙɪʟɪʀsɪɴ: /
  """
